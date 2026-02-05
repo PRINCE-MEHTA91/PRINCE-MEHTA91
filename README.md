@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Prince Mehta  
+# 👋 Hi, I'm Prince Kumar  
 ### 🚀 Full Stack Developer | React & Android Developer
 
 </div>
